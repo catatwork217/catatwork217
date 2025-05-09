@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Cathrin! (she/her)
 
-<!--
-**catatwork217/catatwork217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Neurodivergent techie and full-stack student** with a background in Agile SAFe, AWS, Scrum Mastery, and Product leadership across cloud migration, hardware/software DevOps, and Product Ops initiatives.
 
-Here are some ideas to get you started:
+💻 Industries: Healthcare, Workforce Applications, GRC, Proprietary AI Tech  
+🛠️ Currently: Deepening Linux, DevOps, and full-stack skills via freeCodeCamp and Linux Foundation  
+🌱 Passionate about ethical tech, inclusive design, and open education  
+🔁 Advocating for agile transformation and accessible system design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*💻 Livin’ the Linux life on my DIY Framework 16 powered by Ubuntu 24.04 LTS — because open source feeds my free spirit.*
+
+📍 Based in San Antonio
+🔗 [LinkedIn](https://www.linkedin.com/in/cathringordonmcdougall) | [FreeCodeCamp](https://www.freecodecamp.org/CathrinMcDTX) | [GitHub](https://github.com/catatwork217)
