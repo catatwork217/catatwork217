@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cathrin! (she/her)
 
-**Neurodivergent techie and full-stack student** with a background in Agile SAFe, AWS, Scrum Mastery, and Product leadership across cloud migration, hardware/software DevOps, and Product Ops initiatives.
+**Techie and full-stack student** with a background in Agile SAFe, AWS, Scrum Mastery, and Product leadership across cloud migration, hardware/software DevOps, and Product Ops initiatives.
 
 💻 Industries: Healthcare, Workforce Applications, GRC, Proprietary AI Tech  
 🛠️ Currently: Deepening Linux, DevOps, and full-stack skills via freeCodeCamp and Linux Foundation  
