@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cathrin! (she/her)
 
-**Techie and full-stack student** with a background in Agile SAFe, AWS, Scrum Mastery, and Product leadership across cloud migration, hardware/software DevOps, and Product Ops initiatives.
+**Techie and full-stack student** with a background in Agile SAFe, Kanban/Scrum product development, with specialization with APIs, systems integration and authentication methods.
 
 💻 Industries: Healthcare, Workforce Applications, GRC, Proprietary AI Tech  
 🛠️ Currently: Deepening Linux, DevOps, and full-stack skills via freeCodeCamp and Linux Foundation  
@@ -10,4 +10,4 @@
 *💻 Livin’ the Linux life on my DIY Framework 16 powered by Ubuntu 24.04 LTS — because open source feeds my free spirit.*
 
 📍 Based in San Antonio
-🔗 [LinkedIn](https://www.linkedin.com/in/cathringordonmcdougall) | [FreeCodeCamp](https://www.freecodecamp.org/CathrinMcDTX) | [GitHub](https://github.com/catatwork217)
+🔗 [LinkedIn](https://www.linkedin.com/in/cathringordonmcdougall) | [YoutTube](https://www.youtube.com/@techandtangents) | [GitHub](https://github.com/catatwork217)
