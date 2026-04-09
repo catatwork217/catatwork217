@@ -10,4 +10,4 @@
 *💻 Livin’ the Linux life on my DIY Framework 16 powered by Ubuntu 24.04 LTS — because open source feeds my free spirit.*
 
 📍 Based in San Antonio
-🔗 [Personal site](https://www.cathrinmcdougall.com) | [GitHub](https://github.com/catatwork217)
+🔗 [Substack] (https://substack.com/@agileeveryday) | [GitHub](https://github.com/catatwork217)
