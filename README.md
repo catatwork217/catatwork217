@@ -3,7 +3,7 @@
 **Product Owner & Professional Scrum Master** with a passion for Linux, data and cybersecurity, systems integration and authentication methods.
 
 💻 Industries: Healthcare, Workforce Applications, GRC, Proprietary AI Tech  
-🛠️ Currently: Certified in Cybersecurity through ISC2 and in Security+ through CompTIA 
+🛠️ Currently: Certified in Cybersecurity through ISC2 and in Security+ through CompTIA
 🌱 Passionate about ethical tech, inclusive design, and open education  
 🔁 Advocating for agile transformation and accessible system design
 
