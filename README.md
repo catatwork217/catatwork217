@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cathrin! (she/her)
 
-**Product Owner & Professional Scrum Master** with a passion for Linux, data and cybersecurity, systems integration and authentication methods.
+**Product Owner, Scrum Master, Security+, Cybersecurity certified Professional** with a passion for Linux, data and cybersecurity, systems integration and authentication methods.
 
 💻 Industries: Quick service, Convenience, Healthcare, Workforce Applications, GRC, Proprietary AI Tech  
 🛠️ Current Certifications: Cybersecurity through ISC2, Security+ through CompTIA, Professional Scrum Product Owner & Scrum Master through scrum.org
